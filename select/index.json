@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Game Face",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-07T08:14:05.178671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "Public Enemy",
+      "has_synced": true,
+      "path": "select/01_Game_Face_Public_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "Gov't Mule",
+      "has_synced": false,
+      "path": "select/02_Game_Face_Gov't_Mule.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "Public Enemy feat. Smoothe da Hustler",
+      "has_synced": true,
+      "path": "select/03_Game_Face_Public_Enemy_feat._Smoothe_da_Hustler.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "Only The Family feat. Booka600 & Tee Grizzley",
+      "has_synced": true,
+      "path": "select/04_Game_Face_Only_The_Family_feat._Booka600_&_Tee_Grizzley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "Only The Family, Booka600 & Tee Grizzley",
+      "has_synced": true,
+      "path": "select/05_Game_Face_Only_The_Family,_Booka600_&_Tee_Grizzley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "K Ci & Jojo",
+      "has_synced": false,
+      "path": "select/06_Game_Face_K_Ci_&_Jojo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "K‐Ci & JoJo",
+      "has_synced": false,
+      "path": "select/07_Game_Face_K‐Ci_&_JoJo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "Only The Family",
+      "has_synced": true,
+      "path": "select/08_Game_Face_Only_The_Family.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "Only The Family",
+      "has_synced": true,
+      "path": "select/09_Game_Face_Only_The_Family.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Game Face On",
+      "artist": "Magugu",
+      "has_synced": false,
+      "path": "select/10_Game_Face_On_Magugu.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Only The Family, Booka600 & Tee Grizzley - Game Face (Audio)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/11_Only_The_Family,_Booka600_&_Tee_Grizzley_-_Game_Face_(Audio)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "GAME FACE",
+      "artist": "Eric Lives Here",
+      "has_synced": false,
+      "path": "select/12_GAME_FACE_Eric_Lives_Here.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "UNSECRET",
+      "has_synced": true,
+      "path": "select/13_Game_Face_UNSECRET.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Game Face (Stay Alert)",
+      "artist": "Whiney, Inja",
+      "has_synced": true,
+      "path": "select/14_Game_Face_(Stay_Alert)_Whiney,_Inja.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Game Face",
+      "artist": "Trdee",
+      "has_synced": true,
+      "path": "select/15_Game_Face_Trdee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Game Face",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Game_Face_NMIXX.txt"
+    }
+  ]
+}
